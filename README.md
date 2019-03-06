@@ -1,11 +1,11 @@
 # Console-Solitaire-Project   :spades: :hearts: :clubs: :diamonds:
 
-This is a solitaire game written with cisual studio, C++ programming, console application. Solitaire is a genre of card games that can be played by a single player.
+This is a solitaire game written with Visual Studio, C++ programming, console application. Solitaire is a genre of card games that can be played by a single player.
 
 
 ## Final course project   :mortar_board:
 
-This project was for my second year, first semester, C++, final project. We didn't have options between, which project to choose, I  had chosen Solitaire because it seemed like a good challenge.
+This project was for my second year, first semester, C++, final project. We didn't have options between, which project to choose, I had chosen Solitaire because it seemed like a good challenge.
 
 
 ## Build Status
