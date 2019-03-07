@@ -39,7 +39,7 @@ The application is written in C++ :bomb:
 Visual Studio 2017 - Empty Project :fire:
 
 
-## Writing example
+## Code example
 
 ![Solitaire project - code example](https://user-images.githubusercontent.com/44708223/53908673-8e499f00-4058-11e9-818f-497f58640792.png)
 
